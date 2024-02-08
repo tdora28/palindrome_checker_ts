@@ -19,4 +19,4 @@ Enter any text into the input field. The application will display whether the en
 
 ## Live Demo
 
-Access the live demo here: [Palindrome Checker Live Demo]()
+Access the live demo here: [Palindrome Checker Live Demo](https://palindrome-checker-ts.netlify.app/)
